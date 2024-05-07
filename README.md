@@ -9,7 +9,7 @@
 
 ### 📌 Projetos em Destaque
 
-![Energia Limpa](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)
+![Energia Limpa](https://github.com/LuAlamino/Energia-Limpa)
 
 ### 🚀 Linguagens Mais Usadas
 
