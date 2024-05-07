@@ -1,22 +1,16 @@
-### Olá, eu sou Venilton FalvoJr (falvojr) 👋
-
-✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
+### Olá, eu sou Lucas Alamino (LuAlamino) 👋
 
 🏢 **Atuação Profissional**
-- 🚀 Tech Lead no time de Educação da DIO
-- 🎓 Doutorando em Engenharia de Software no [ICMC-USP](https://www.icmc.usp.br/)
+- 🚀 Atualmente Trabalho na area de sistemas na prefeitura de Sorocaba
+- 🎓 Cursando Analise e desenvolvimento de sistemas
 
 📱 **Especialidades**
-- 📚 Pergunte-me sobre Java, Kotlin e desenvolvimento Mobile para Android!
-
-### 📊 Estatísticas no GitHub
-
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
+- 📚 Pergunte-me sobre JavaScript, HTML, CSS, MySQL
 
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
+[![Energia Limpa]([https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023](https://github.com/LuAlamino/Energia-Limpa))
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuAlamino&layout=compact)
